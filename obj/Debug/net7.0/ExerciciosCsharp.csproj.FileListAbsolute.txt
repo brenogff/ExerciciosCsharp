@@ -1,0 +1,17 @@
+C:\Projetos\ExerciciosCsharp\ExerciciosCsharp\bin\Debug\net7.0\ExerciciosCsharp.exe
+C:\Projetos\ExerciciosCsharp\ExerciciosCsharp\bin\Debug\net7.0\ExerciciosCsharp.deps.json
+C:\Projetos\ExerciciosCsharp\ExerciciosCsharp\bin\Debug\net7.0\ExerciciosCsharp.runtimeconfig.json
+C:\Projetos\ExerciciosCsharp\ExerciciosCsharp\bin\Debug\net7.0\ExerciciosCsharp.dll
+C:\Projetos\ExerciciosCsharp\ExerciciosCsharp\bin\Debug\net7.0\ExerciciosCsharp.pdb
+C:\Projetos\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net7.0\ExerciciosCsharp.csproj.AssemblyReference.cache
+C:\Projetos\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net7.0\ExerciciosCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net7.0\ExerciciosCsharp.AssemblyInfoInputs.cache
+C:\Projetos\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net7.0\ExerciciosCsharp.AssemblyInfo.cs
+C:\Projetos\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net7.0\ExerciciosCsharp.csproj.CoreCompileInputs.cache
+C:\Projetos\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net7.0\ExerciciosCsharp.dll
+C:\Projetos\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net7.0\refint\ExerciciosCsharp.dll
+C:\Projetos\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net7.0\ExerciciosCsharp.pdb
+C:\Projetos\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net7.0\ExerciciosCsharp.genruntimeconfig.cache
+C:\Projetos\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net7.0\ref\ExerciciosCsharp.dll
+C:\Projetos\ExerciciosCsharp\ExerciciosCsharp\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Projetos\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net7.0\ExerciciosCsharp.csproj.CopyComplete
